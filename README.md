@@ -1,9 +1,9 @@
 <h1 align="center">Hi, there I'm Tykejmi</h1>
 <h3 align="center">A frontend dev from Czech republic</h3>
 
-- 📫 How to reach me -> **khun1@seznam.cz**
 
 <h3 align="left">Connect with me:</h3>
+ 📫  **khun1@seznam.cz**
 <p align="left">
 </p>
 
