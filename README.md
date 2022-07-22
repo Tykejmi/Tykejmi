@@ -2,8 +2,7 @@
 <h3 align="center">A frontend dev from Czech republic</h3>
 
 
-<h3 align="left">Connect with me:</h3>
- 📫  **khun1@seznam.cz**
+<h3 align="left">Reach me via :</h3> khun1@seznam.cz
 <p align="left">
 </p>
 
